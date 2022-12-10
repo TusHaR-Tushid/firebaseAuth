@@ -1,0 +1,1 @@
+ALTER TYPE status_type ADD VALUE 'rejected' AFTER 'accepted';
